@@ -31,8 +31,8 @@ The challenge was to create an FAQ accordion component that allows users to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/sliyarli/FAQ-Accordion-Component)
+- [Live Site URL](https://sliyarli.github.io/FAQ-Accordion-Component/)
 
 ## My Process
 
